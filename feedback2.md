@@ -1,6 +1,8 @@
-# Retour Apprenant2 Atelier Solo : Triple Triad Deck Builder
+# Feedback pour l'Apprenant 2
 
 **Félicitations** ! Tu as presque terminé le parcours 👍. Je suppose qu'il t'a manqué un peu de temps pour terminer l'étape 3.4. En tout cas, tu as bien assimilé les principes abordés dans ce parcours. Tu es capable de manipuler les données de manière correcte et tu as réussi à mettre en place les sessions.
+
+---
 
 ## Axes d'amélioration :
 

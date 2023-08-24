@@ -1,10 +1,12 @@
-# Retour Apprenant3
+# Feedback pour l'Apprenant 3
 
-Bravo ! Tu as réussi à appliquer plusieurs des connaissances importantes pour les étapes 1 et 2 de ce parcours. Tu maîtrises bien la manipulation des données avec les contrôleurs, les mappers et les vues. Est-ce un manque de temps ou une incompréhension de certaines notions qui t'a posé problème pour l'étape 3 ? Avec de la pratique, je n'ai aucun doute que ces notions ne te poseront plus de soucis. 🙂
+**Bravo** ! Tu as réussi à appliquer plusieurs des connaissances importantes pour les étapes 1 et 2 de ce parcours. Tu maîtrises bien la manipulation des données avec les contrôleurs, les mappers et les vues. Est-ce un manque de temps ou une incompréhension de certaines notions qui t'a posé problème pour l'étape 3 ? Avec de la pratique, je n'ai aucun doute que ces notions ne te poseront plus de soucis. 🙂
 
 Je remarque que tu as inclus des commentaires pour suivre ton avancement, c'est une excellente approche pour garder une vue d'ensemble sur le travail accompli et à faire dans les différents fichiers. 👍
 
-## Axes d'amélioration
+---
+
+## Axes d'amélioration :
 
 - Je constate que tu n'es pas allé au bout de la mise en place des sessions. Si tu le souhaites, nous pouvons faire un point ensemble pour finaliser cette partie du parcours. Sinon, je t'invite à relire la documentation et à étudier la correction de cette étape.
 
