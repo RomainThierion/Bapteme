@@ -20,7 +20,7 @@ fetch('/card/:id')
   });
 ```
 
-##Explications :
+## Explications :
 
 - Tu appelles la fonction `fetch()` en lui donnant l'adresse de la ressource que tu veux récupérer.
 - Cette fonction renvoie une "promesse" qui représente la réponse du serveur.
